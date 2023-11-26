@@ -26,7 +26,7 @@ This WordPress plugin provides an easy-to-use dashboard widget that counts posts
 
 Once activated, the plugin automatically adds a widget to your WordPress dashboard:
 
-- The widget is titled **'Site and WooCommerce Statistics with Total Count'**.
+- The widget is titled **'Page & Post Count'**.
 - It displays a list of counts for posts, pages, tags, categories, products, product tags, product categories, and the total count.
 
 ## Requirements
